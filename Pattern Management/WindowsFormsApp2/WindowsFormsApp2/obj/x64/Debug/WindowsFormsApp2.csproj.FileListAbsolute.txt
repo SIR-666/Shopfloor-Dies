@@ -1,0 +1,844 @@
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Shopfloor.exe.config
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.APLIKATOR_SCAN.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.inputpokayoke.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.MTC_CALL.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel1.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel2.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel3.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Report.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RJControls.RJTextBox.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ScanWOS.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Scan_Wire.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_Standart.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_CNC.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CNC.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CRP.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Shoot_Press.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Term_Scan.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Shopfloor.exe.config
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Shopfloor.exe
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Shopfloor.pdb
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\netstandard.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.AppContext.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Specialized.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Console.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Data.Common.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Process.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipes.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Expressions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Parallel.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Queryable.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Http.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NameResolution.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Ping.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Requests.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Security.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Sockets.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ObjectModel.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Reader.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Writer.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Handles.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Claims.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Principal.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.SecureString.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Thread.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.ThreadPool.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Timer.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ValueTuple.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XDocument.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\itextsharp.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MySql.Data.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.Data.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.OptimizedDataReader.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ZstdSharp.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.pdb
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Shopfloor.exe
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Shopfloor.pdb
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_ASSY.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.DOWNTIME_RECORD.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.UserControlBlank.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ucDays.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY_HOME.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login_rph.resources
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Guna.UI2.dll
+D:\3. Frontend Development\4. Shopfloor\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Wire_Req.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.APLIKATOR_SCAN.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.DOWNTIME_RECORD.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.inputpokayoke.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login_rph.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.MTC_CALL.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel1.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel2.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel3.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Report.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RJControls.RJTextBox.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY_HOME.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ScanWOS.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Scan_Wire.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_Standart.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_CNC.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_ASSY.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CNC.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CRP.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Shoot_Press.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Term_Scan.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_IN.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ucDays.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.UserControlBlank.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Wire_Req.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\netstandard.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.AppContext.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Specialized.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Console.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Data.Common.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Process.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipes.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Expressions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Parallel.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Queryable.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Http.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NameResolution.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Ping.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Requests.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Security.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Sockets.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ObjectModel.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Reader.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Writer.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Handles.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Claims.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Principal.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.SecureString.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Thread.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.ThreadPool.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Timer.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ValueTuple.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XDocument.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Guna.UI2.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\itextsharp.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MySql.Data.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.Data.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.OptimizedDataReader.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ZstdSharp.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.pdb
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_OUT.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.PRINTOUT.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\EnvDTE.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\stdole.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BarcodeStandard.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\QRCoder.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\PrinterUtility.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.THERMAL_PRINT.resources
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ESC-POS-USB-NET.dll
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.exe.config
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.exe
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.pdb
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.exe.config
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.exe
+D:\11. PLANT 5\5. Front End\Realtime Scales Furnace 2\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.pdb
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.exe.config
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.exe
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Realtime_Scales.pdb
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\netstandard.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.AppContext.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Specialized.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Console.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Data.Common.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Process.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipes.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Expressions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Parallel.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Queryable.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Http.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NameResolution.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Ping.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Requests.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Security.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Sockets.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ObjectModel.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Reader.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Writer.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Handles.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Claims.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Principal.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.SecureString.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Thread.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.ThreadPool.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Timer.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ValueTuple.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XDocument.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BarcodeStandard.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ESC-POS-USB-NET.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Guna.UI2.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\itextsharp.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MySql.Data.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\PrinterUtility.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\QRCoder.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.Data.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.OptimizedDataReader.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ZstdSharp.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\EnvDTE.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\stdole.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.pdb
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.exe.config
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.APLIKATOR_SCAN.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.DOWNTIME_RECORD.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.inputpokayoke.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login_rph.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.MTC_CALL.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel1.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel2.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel3.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.PRINTOUT.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Report.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RJControls.RJTextBox.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY_HOME.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ScanWOS.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Scan_Wire.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_Standart.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_CNC.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_ASSY.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CNC.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CRP.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Shoot_Press.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Term_Scan.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.THERMAL_PRINT.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_IN.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_OUT.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ucDays.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.UserControlBlank.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Wire_Req.resources
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.exe
+D:\11. PLANT 5\5. Front End\Dashboard Furnace V2\Dashboard Furnace\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Realtime_Scales.pdb
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\netstandard.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.AppContext.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Collections.Specialized.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Console.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Data.Common.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Process.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.TraceSource.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.FileSystem.Watcher.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.MemoryMappedFiles.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipes.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Expressions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Parallel.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Linq.Queryable.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Http.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NameResolution.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Ping.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Requests.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Security.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.Sockets.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.Client.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Net.WebSockets.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ObjectModel.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Reader.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Resources.Writer.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Handles.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Formatters.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Claims.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Csp.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.Principal.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Security.SecureString.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Thread.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.ThreadPool.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Timer.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.ValueTuple.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XDocument.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Xml.XPath.XDocument.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BarcodeStandard.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ESC-POS-USB-NET.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Guna.UI2.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\itextsharp.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\MySql.Data.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\PrinterUtility.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\QRCoder.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.Data.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Savage.OptimizedDataReader.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ZstdSharp.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\EnvDTE.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\stdole.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\BouncyCastle.Cryptography.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.pdb
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Google.Protobuf.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.IO.Pipelines.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.APLIKATOR_SCAN.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.DOWNTIME_RECORD.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.inputpokayoke.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.login_rph.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.MTC_CALL.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel1.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel2.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Panel3.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Pattern_Center.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.PRINTOUT.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Report.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RJControls.RJTextBox.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.RPH_ASSY_HOME.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ScanWOS.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Scan_Wire.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_Standart.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Setting_CNC.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_ASSY.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CNC.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.SF_CRP.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Shoot_Press.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Term_Scan.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.THERMAL_PRINT.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_IN.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.TRANS_OUT.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.ucDays.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.UserControlBlank.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Wire_Req.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Pattern_Measurement.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Imaging.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Math.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Video.DirectShow.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Video.dll
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Imaging.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Math.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Video.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\AForge.Video.DirectShow.xml
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.preventive_pattern.resources
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Pattern Management.exe.config
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Pattern Management.exe
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Pattern Management.pdb
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Pattern Management.exe.config
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Pattern Management.exe
+D:\11. PLANT 5\5. Front End\Pattern Management\Pattern Management\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\Pattern Management.pdb
